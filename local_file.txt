@@ -1,2 +1,2 @@
  need to understand the git local repo concepts
-understanding the concept takes time
+understanding the concept takes time and adding more pull operation
