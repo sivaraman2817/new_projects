@@ -5,3 +5,4 @@ remote repo is ahead of local repo
 checking the difference between the two area's
 untracked area file for demo
 diff between untrcaked and commit area
+differnce between the staged and commit area
