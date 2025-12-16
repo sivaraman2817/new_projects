@@ -2,3 +2,4 @@
 understanding the concept takes time and adding more pull operation
 performance testing
 remote repo is ahead of local repo
+checking the difference between the two area's
